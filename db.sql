@@ -1,0 +1,1 @@
+create table userinfo(emailaddress varchar(80) not null,password varchar(20),name varchar(50),avtarurl varchar(100),status varchar(50) ,primary key(emailaddress),last_access_time varchar2(50));
